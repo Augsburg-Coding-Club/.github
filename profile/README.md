@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ## Augsburg Coding Club Board Members
-- President: [Ivie Taft](https://github.com/IvieThePlant) - tafti@augsburg.edu
-- Vice-President: [Addison Mccarl](https://github.com/addisonmccarl) - mccarla@augsburg.edu
+- President: [Ivie Taft](https://github.com/IvieThePlant)                    - tafti@augsburg.edu
+- Vice-President: [Addison Mccarl](https://github.com/addisonmccarl)         - mccarla@augsburg.edu
 - Head of Club Relations: [Delaney Zuniga](https://github.com/delaneyzuniga) - zunigad@augsburg.edu
-- Club Secretary: [Afiya Atto](https://github.com/Afiyaatto) - attoaa@augsburg.edu
-- Events Coordinator: [Hamze Mokar]() - moktarh@augsburg.edu
+- Club Secretary: [Afiya Atto](https://github.com/Afiyaatto)                 - attoaa@augsburg.edu
+- Events Coordinator: [Hamze Mokar]()                                        - moktarh@augsburg.edu
 - Treasurer: **TBD**
-- Faculty Advisor: [Erik Steinmetz]() - steinmee@augsburg.edu
+- Faculty Advisor: [Erik Steinmetz]()                                        - steinmee@augsburg.edu
 <!--
 
 **Here are some ideas to get you started:**
