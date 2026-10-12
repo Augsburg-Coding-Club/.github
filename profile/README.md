@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😼
 
 ## Augsburg Coding Club Board Members
 - President: [Addison McCarl](https://github.com/addisonmccarl)                    - mccarla@augsburg.edu
